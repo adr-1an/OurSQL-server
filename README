@@ -1,6 +1,6 @@
 Copyright (c) 2000, 2023, Oracle and/or its affiliates.
 
-This is a release of MySQL, an SQL database server.
+This is a release of OurSQL, an SQL database server.
 
 License information can be found in the LICENSE file.
 
@@ -11,10 +11,10 @@ This distribution may include materials developed by third parties.
 For license and attribution notices for these materials,
 please refer to the LICENSE file.
 
-For further information on MySQL or additional documentation, visit
-  http://dev.mysql.com/doc/
+For further information on OurSQL or additional documentation, visit
+  http://dev.oursql.com/doc/
 
 For additional downloads and the source of MySQL, visit
-  http://dev.mysql.com/downloads/
+  http://dev.oursql.com/downloads/
 
-MySQL is brought to you by the MySQL team at Oracle.
+OurSQL is brought to you by the OurSQL team at Oracle.
